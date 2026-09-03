@@ -250,3 +250,9 @@ This project is intended for **research, educational, and demonstration purposes
 
 ## Dashboard
 <img width="1917" height="1027" alt="Screenshot 2026-09-03 205039" src="https://github.com/user-attachments/assets/789d9eb6-04ff-4658-b8f5-0e15ccbb5449" />
+
+## Risk Map
+<img width="1917" height="1031" alt="Screenshot 2026-09-03 205053" src="https://github.com/user-attachments/assets/4e16e2c9-9056-40f6-9365-52c59b4a2ce2" />
+
+## About
+<img width="1917" height="1031" alt="Screenshot 2026-09-03 211310" src="https://github.com/user-attachments/assets/d73556ca-5214-44ba-9362-a11b38dbfa8f" />
