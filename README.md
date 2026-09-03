@@ -243,5 +243,10 @@ This project is intended for **research, educational, and demonstration purposes
 
 ### 💧 Jal Sahayak
 
-**Turning water data into actionable decisions for Saurashtra.**<img width="1917" height="1028" alt="Screenshot 2026-09-03 205019" src="https://github.com/user-attachments/assets/01eac97c-b6f1-47bc-9416-c7e66ee78d3c" />
+**Turning water data into actionable decisions for Saurashtra.**
 
+## Home Screen
+<img width="1917" height="1028" alt="Screenshot 2026-09-03 205019" src="https://github.com/user-attachments/assets/01eac97c-b6f1-47bc-9416-c7e66ee78d3c" />
+
+## Dashboard
+<img width="1917" height="1027" alt="Screenshot 2026-09-03 205039" src="https://github.com/user-attachments/assets/789d9eb6-04ff-4658-b8f5-0e15ccbb5449" />
