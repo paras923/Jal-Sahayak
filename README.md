@@ -163,29 +163,7 @@ Jal-Sahayak/
 
 *The exact structure may vary depending on the current version of the project.*
 
----
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/paras923/Jal-Sahayak.git
-```
-
-### 2. Open the project
-
-```bash
-cd Jal-Sahayak
-```
-
-### 3. Run the website
-
-Open `index.html` in your browser.
-
-Alternatively, use **VS Code Live Server** for local development.
-
----
 
 ## 🎯 Project Objectives
 
